@@ -1,1 +1,1 @@
-I am learning markdowns on git right now.
+*I am learning **markdowns** on git right now.*
